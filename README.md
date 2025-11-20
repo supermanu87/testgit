@@ -1,5 +1,8 @@
 # testgit
 Sommario
+ - indice1
+ - indice2
+ - indice3
 indice
 Capitolo1
 Capitolo2
